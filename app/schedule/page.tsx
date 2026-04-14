@@ -36,7 +36,7 @@ export default function Schedule() {
 
         <div className="w-full max-w-5xl bg-white rounded-3xl border border-zinc-200 shadow-xl overflow-hidden min-h-[700px]">
           <iframe
-            src={process.env.NEXT_PUBLIC_CALENDLY_LINK || "https://calendly.com"}
+            src={process.env.NEXT_PUBLIC_CALENDLY_LINK || "https://calendly.com/dr-oakley"}
             width="100%"
             height="700"
             frameBorder="0"
