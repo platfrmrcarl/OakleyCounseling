@@ -1,0 +1,10 @@
+node_modules/
+
+dist/
+.next/
+*.lock
+*.min.js
+.firebase/
+__pycache__/
+agents/__pycache__/
+coverage/

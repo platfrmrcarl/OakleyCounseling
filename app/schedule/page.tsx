@@ -44,7 +44,9 @@ export default function Schedule() {
         </div>
 
         <p className="mt-8 text-sm text-zinc-500 max-w-md text-center">
-          Can't find a time that works? <a href="mailto:support@truenorth.com" className="text-teal-600 underline">Email us</a> and we'll find a way to fit you in.
+          Can&apos;t find a time that works?{" "}
+          <a href="mailto:support@truenorth.com" className="text-teal-600 underline">Email us</a>
+          {" "}and we&apos;ll find a way to fit you in.
         </p>
       </main>
 
