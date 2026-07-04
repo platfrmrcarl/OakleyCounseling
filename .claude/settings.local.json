@@ -2,6 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(npm run *)"
-    ]
-  }
+    ],
+    "defaultMode": "bypassPermissions"
+  },
+  "skipDangerousModePermissionPrompt": true
 }
